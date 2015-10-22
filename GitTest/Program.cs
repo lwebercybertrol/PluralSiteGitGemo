@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             //changes on the main branch
+            //v1.1 changes
         }
     }
 }
