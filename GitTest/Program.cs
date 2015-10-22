@@ -12,6 +12,9 @@ namespace GitTest
         {
             //changes on the main branch
             //v1.1 changes
+
+            //master changes
+
         }
     }
 }
