@@ -16,6 +16,7 @@ namespace GitTest
             //master changes
             //these changes will be stashed
 
+            //new change
         }
     }
 }
