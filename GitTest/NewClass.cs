@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            //changes on the main branch
-        }
     }
 }
